@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\Birth\\Birth cake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{816FAFFE-3C83-4076-AB78-4C994BF38E8B}|Birth cake.vcxproj|D:\\git\\Birth\\Birth cake\\Cake_is_a_lie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{816FAFFE-3C83-4076-AB78-4C994BF38E8B}|Birth cake.vcxproj|solutionrelative:Cake_is_a_lie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cake_is_a_lie.cpp",
+              "DocumentMoniker": "D:\\git\\Birth\\Birth cake\\Cake_is_a_lie.cpp",
+              "RelativeDocumentMoniker": "Cake_is_a_lie.cpp",
+              "ToolTip": "D:\\git\\Birth\\Birth cake\\Cake_is_a_lie.cpp",
+              "RelativeToolTip": "Cake_is_a_lie.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T13:17:50.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
